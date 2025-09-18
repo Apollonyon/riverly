@@ -1,75 +1,42 @@
-# Nuxt Minimal Starter
+# Riverly
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Riverly is a personal website where I share my projects and blog posts. This README provides an overview of the site, setup instructions, and contribution guidelines.
 
-## Setup
+## Features
 
-Make sure to install dependencies:
+- Responsive design
+- Fast and lightweight
+- Easy to customize
+- Project showcase
+- Personal blog
 
-```bash
-# npm
-npm install
+## Getting Started
 
-# pnpm
-pnpm install
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/riverly.git
+    ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the development server:
+    ```bash
+    npm start
+    ```
 
-# yarn
-yarn install
+## Folder Structure
 
-# bun
-bun install
-```
+- `/src` - Source code
+- `/public` - Static assets
 
-## Development Server
+## Contributing
 
-Start the development server on `http://localhost:3000`:
+Contributions are welcome! Please open issues or submit pull requests.
 
-```bash
-# npm
-npm run dev
+## License
 
-# pnpm
-pnpm dev
+This project is licensed under the MIT License.
 
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+---
+*Made with ❤️ by Riverly*
