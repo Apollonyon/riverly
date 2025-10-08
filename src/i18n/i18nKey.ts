@@ -1,6 +1,8 @@
 enum I18nKey {
 	home = "home",
 	about = "about",
+	impressum = "impressum",
+	datenschutz = "datenschutz",
 	archive = "archive",
 	search = "search",
 
