@@ -21,8 +21,8 @@ export const siteConfig: SiteConfig = {
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
-			text: "Plufow @ Unsplash", // Credit text to be displayed
-			url: "https://unsplash.com/@plufow?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash", // (Optional) URL link to the original artwork or artist's page
+			text: "Mario Losereit @ Unsplash", // Credit text to be displayed
+			url: "https://unsplash.com/@toppy73", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
