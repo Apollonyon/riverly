@@ -10,4 +10,6 @@ lang: 'en'
 ---
 ## Hello there!
 
-Welcome to the first blog post. Im currently setting up the website and creating blog posts and projects so I can show you them and go through them in detail.
+Welcome to the first blog post. Im currently setting up the website and creating blog posts and projects so I can show you them and go through them in detail. 
+
+This is also just to check if everything works correctly and nothing is missing in blog posts. Other blog posts have more text .
