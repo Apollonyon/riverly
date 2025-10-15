@@ -65,11 +65,6 @@ export const profileConfig: ProfileConfig = {
 			url: "https://twitter.com/riverrly",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://steamcommunity.com/id/apollonyon/",
-		},
-		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/Apollonyon/riverly",
